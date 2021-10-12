@@ -1,0 +1,11 @@
+{
+  "name": "wm-b",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "webpack"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "wm-a",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "peerDependencies": {
+    "lodash": "^4.17.21" 
+  }
+}
